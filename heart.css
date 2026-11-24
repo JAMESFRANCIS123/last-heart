@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(circle at bottom, #160c1a 0%, #06040a 100%);
+  overflow: hidden;
+  cursor: crosshair;
+}
+
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
